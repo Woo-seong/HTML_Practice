@@ -1,10 +1,11 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
 <head>
-    <title>Ethan - Curriculum Vitae</title>
     <meta charset="utf-8">
+    <title>Ethan - Curriculum Vitae</title>
 </head>
 <body>
+<h1>Title</h1>
 <ol>
     <li><a href = "https://www.pmi.com/" target="_blank" title="PMI"> Philip Morris International</a></li> 2020 ~ Current
     <li><a href = "https://www.kosinmed.or.kr/" target="_blank" title="KGUH"> Kosin University Gospel Hospital</a></li> 2018 ~ 2020
@@ -37,3 +38,4 @@
 <h4>W3C</h4>
 <h5>W3C</h5>
 <h6>W3C</h6>
+</html>
