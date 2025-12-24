@@ -1,7 +1,3 @@
-# HTML_Practice
-
-Hello world
-
 <h1>Ethan Heo</h1>
 
 <img src="Ethan.jpeg" width="100" alt="Ethan photo">
