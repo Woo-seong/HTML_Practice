@@ -1,6 +1,10 @@
-<title>Ethan - Curriculum Vitae</title>
-<meta charset="utf-8">
-
+<!doctype html>
+<html>
+<head>
+    <title>Ethan - Curriculum Vitae</title>
+    <meta charset="utf-8">
+</head>
+<body>
 <ol>
     <li>Philip Morris International</li> 2020 ~ Current
     <li>Kosin University Gospel Hospital</li> 2018 ~ 2020
