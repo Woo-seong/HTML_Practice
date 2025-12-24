@@ -7,8 +7,8 @@
 <body>
 <ol>
     <li><a href = "https://www.pmi.com/" target="_blank" title="PMI"> Philip Morris International</a></li> 2020 ~ Current
-    <li>Kosin University Gospel Hospital</li> 2018 ~ 2020
-    <li>Biomechanics Laboratory</li> 2016 ~ 2018
+    <li><a href = "https://www.kosinmed.or.kr/" target="_blank" title="KGUH"> Kosin University Gospel Hospital</a></li> 2018 ~ 2020
+    <li><a href = "https://cms.kookmin.ac.kr/biomechanics/index.do" target="_blank" title="KUBL">Biomechanics Laboratory</a></li> 2016 ~ 2018
 </ol>
 
 <h1>Ethan Heo</h1>
