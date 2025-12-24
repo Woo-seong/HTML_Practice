@@ -1,3 +1,9 @@
+<ik>
+    <li>Philip Morris International</li>
+    <li>Kosin University Gospel Hospital</li>
+    <li>Biomechanics Laboratory</li>
+</ol>
+
 <h1>Ethan Heo</h1>
 
 <img src="Ethan.jpeg" width="100" alt="Ethan photo">
