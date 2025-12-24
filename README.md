@@ -6,7 +6,7 @@
 </head>
 <body>
 <ol>
-    <li>Philip Morris International</li> 2020 ~ Current
+    <li><a href = "https://www.pmi.com/" target="_blank" title="PMI"> Philip Morris International</a></li> 2020 ~ Current
     <li>Kosin University Gospel Hospital</li> 2018 ~ 2020
     <li>Biomechanics Laboratory</li> 2016 ~ 2018
 </ol>
@@ -17,9 +17,7 @@
 
 <h3>Philip Morris International</h3>
 
-
 <p><strong><u>Ethan</u></strong> has been working for almost six years at <strong>Philip Morris International</strong>.</p>
-
 <p style="margin-top: 40px;">Hypertext Markup Language (HTML) is the standard markup language for <strong>creating <u>web</u> pages</strong> and <strong>web appliactions</strong>.</p>
 
 <table>
@@ -30,7 +28,6 @@
 <tr>
 <td>GPA</td>
 <td>4.25</td>
-
 </table>
 
 <br>
