@@ -1,3 +1,6 @@
+<title>Ethan - Curriculum Vitae</title>
+<meta charset="utf-8">
+
 <ol>
     <li>Philip Morris International</li> 2020 ~ Current
     <li>Kosin University Gospel Hospital</li> 2018 ~ 2020
@@ -9,6 +12,7 @@
 <img src="Ethan.jpeg" width="100" alt="Ethan photo">
 
 <h3>Philip Morris International</h3>
+
 
 <p><strong><u>Ethan</u></strong> has been working for almost six years at <strong>Philip Morris International</strong>.</p>
 
